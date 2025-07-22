@@ -117,3 +117,9 @@ const connection = new Connection("https://api.devnet.solana.com", "confirmed");
 - [Solana Status](https://status.solana.com) — проверка статуса экосистемы solana и ее RPC.
 
 ---
+
+# ПРАКТИКА
+
+Теперь настало время КОДА
+
+Переходим на [урок 1](./01-transactions.md) и начинаем решать задание!

@@ -101,7 +101,7 @@ https://api.devnet.solana.com
   - Получение баланса
   - Отправка транзакции
 
-## JavaScript
+## TypeScript
 
 ```ts
 import { Connection } from "@solana/web3.js";
@@ -132,3 +132,9 @@ const connection = new Connection("https://api.devnet.solana.com", "confirmed");
 ## 🏆 Решил Задачу
 
 присылай код и данные [эксплорера](https://explorer.solana.com/?cluster=devnet) в [✅Results](https://t.me/c/2772080252/368)
+
+---
+
+После решения переходим и выполняем [урок 2](02-get-account-info.md)
+
+за работу!
