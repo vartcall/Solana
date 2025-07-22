@@ -81,15 +81,7 @@ https://api.devnet.solana.com
 
 [explorer.solana.com/?cluster=devnet](https://explorer.solana.com/?cluster=devnet)
 
----
-
 ## 📚 База знаний: что нужно знать, чтобы выполнить этот урок
-
-Вот **базу программирования**, которую должен понимать человек, чтобы решить задание «Чтение информации об аккаунте» в Solana:
-
----
-
-## 📚 Что нужно знать, чтобы выполнить урок 2
 
 ---
 
